@@ -1,6 +1,6 @@
 # WCKGO
 
-## MY CODE TIME          (Last updated on Mon, Jul 20th 9:49pm)
+## MY CODE TIME          (Last updated on Mon, Jul 20th)
 
 ### Today (Mon, Jul 20th)
 
@@ -95,7 +95,7 @@ Active code time today      :                            1.6 hrs
              Top language :                           javascript
 ```
 
-### 🐲 Your weekly language rankings
+### 🐲 My weekly language rankings
 
 -----------------------------------------------------------------
 
