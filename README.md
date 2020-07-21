@@ -1,10 +1,8 @@
-# WCKGO
+### Hi there, I'm [wckgo!](https://wckgo.top) 👋
 
-## MY CODE TIME          (Last updated on Mon, Jul 20th)
+#### MY CODE TIME          (Last updated on Mon, Jul 20th)
 
-### Today (Mon, Jul 20th)
-
------------------------------------------------------------------
+##### Today (Mon, Jul 20th)
 
 ```text
 Code time today             :                            1.6 hrs
@@ -12,9 +10,7 @@ Active code time today      :                            1.6 hrs
 90-day avg                  :                            2.7 hrs
 ```
 
-### Yesterday (Sun, Jul 19th)
-
------------------------------------------------------------------
+##### Yesterday (Sun, Jul 19th)
 
 ```text
          Active code time :                                 4.20
@@ -30,9 +26,7 @@ Active code time today      :                            1.6 hrs
              Top language :                           javascript
 ```
 
-### Last week (Sun, Jul 12th - Sat, Jul 18th)
-
------------------------------------------------------------------
+##### Last week (Sun, Jul 12th - Sat, Jul 18th)
 
 ```text
          Active code time :                                21.50
@@ -48,9 +42,7 @@ Active code time today      :                            1.6 hrs
              Top language :                           javascript
 ```
 
-###  🔥 Weekly code time heatmap
-
------------------------------------------------------------------
+#####  🔥 Weekly code time heatmap
 
 ```text
       12a 1a 2a 3a 4a 5a 6a 7a 8a 9a 10a 11a 12p 1p 2p 3p 4p 5p 6p 7p 8p 9p 10p 11p
@@ -63,9 +55,7 @@ Active code time today      :                            1.6 hrs
   Sat 🔵 ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ 🔵 🔵 🔵 🔵 🔵 🔵 🔵 ⚪ ⚪
 ```
 
-### 90-day avg by day of week
-
------------------------------------------------------------------
+##### 90-day avg by day of week
 
 ```text
                       sun : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 2.4 hrs
@@ -77,9 +67,7 @@ Active code time today      :                            1.6 hrs
                       sat : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 3.2 hrs
 ```
 
-### Last 90 days (Apr 27th, 2020 - Jul 19th, 2020)
-
------------------------------------------------------------------
+##### Last 90 days (Apr 27th, 2020 - Jul 19th, 2020)
 
 ```text
          Active code time :                               207.40
@@ -95,9 +83,7 @@ Active code time today      :                            1.6 hrs
              Top language :                           javascript
 ```
 
-### 🐲 My weekly language rankings
-
------------------------------------------------------------------
+##### 🐲 My weekly language rankings
 
 ```text
                javascript : ▮▮▮▮▮▮▮▮▮ 39.1%
@@ -109,9 +95,7 @@ Active code time today      :                            1.6 hrs
                      json : ▮▮ 4.3%
 ```
 
-### 🐲 Global weekly language rankings
-
------------------------------------------------------------------
+##### 🐲 Global weekly language rankings
 
 ```text
                javascript : ▮▮▮▮▮ 20.5%
