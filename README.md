@@ -1,5 +1,12 @@
 ### Hi there, I'm [wckgo!](https://wckgo.top) 👋
 
+Hi,I'm wckgo.A senior front-end development engineer from China.
+
+- 🔭 I’m currently working on Qihoo 360 Technology Co. Ltd.
+- 🌱 I’m currently learning Web 3D.
+- 💬 Ask me about anything related to Javascript/Typescript/Web 3D
+- 📫 How to reach me: [here!](https://wckgo.top/about)
+
 #### MY CODE TIME          (Last updated on Mon, Jul 20th)
 
 ##### Today (Mon, Jul 20th)
