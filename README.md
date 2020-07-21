@@ -127,4 +127,4 @@ Active code time today      :                            5.1 hrs
                     other : ▮▮▮ (435 totaling 13.3%)
 ```
 
->>> power by CodeTime
+> power by [CodeTime!](https://www.software.com/code-time)
