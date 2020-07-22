@@ -7,14 +7,14 @@ Hi,I'm wckgo.A senior front-end development engineer from China.
 - 💬 Ask me about anything related to Javascript/visualization/Web 3D
 - 📫 How to reach me: [here!](https://wckgo.top/about)
 
-#### MY CODE TIME          (Last updated on Tue, Jul 21st)
+#### MY CODE TIME          (Last updated on Wed, Jul 22nd)
 
-##### Today (Tue, Jul 21st)
+##### Today (Wed, Jul 22nd)
 
 ```
-Code time today             :                            5.1 hrs
-Active code time today      :                            5.1 hrs
-90-day avg                  :                            2.9 hrs
+Code time today             :                            3.0 hrs
+Active code time today      :                            3.0 hrs
+90-day avg                  :                            3.5 hrs
 ```
 
 ##### Yesterday (Mon, Jul 20th)
@@ -31,7 +31,7 @@ Active code time today      :                            5.1 hrs
  Hours coded outside work :                                 0.60
                Live share :                                0 min
              Top language :                           javascript
-```             
+```
 
 ##### Last week (Sun, Jul 12th - Sat, Jul 18th)
 
@@ -49,7 +49,7 @@ Active code time today      :                            5.1 hrs
              Top language :                           javascript
 ```
 
-#####  🔥 Weekly code time heatmap
+#####   🔥 Weekly code time heatmap
 
 ```
       12a 1a 2a 3a 4a 5a 6a 7a 8a 9a 10a 11a 12p 1p 2p 3p 4p 5p 6p 7p 8p 9p 10p 11p 
@@ -60,7 +60,7 @@ Active code time today      :                            5.1 hrs
   Thu ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ 🔵 ⚪ ⚪ ⚪ 🔵 🔵 ⚪ 🔵 ⚪ 🔵 ⚪ ⚪ 🔵 ⚪ 
   Fri ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ 🔵 🔵 ⚪ 🔵 🔵 ⚪ 🔵 🔵 🔵 🔵 ⚪ ⚪ ⚪ 🔵 
   Sat 🔵 ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ 🔵 🔵 🔵 🔵 🔵 🔵 🔵 ⚪ ⚪ 
-```  
+```
 
 ##### 90-day avg by day of week
 
@@ -90,7 +90,7 @@ Active code time today      :                            5.1 hrs
              Top language :                           javascript
 ```
 
-##### 🐲 My weekly language rankings
+##### 🐲 Your weekly language rankings
 
 ```
                javascript : ▮▮▮▮▮▮▮▮▮ 39.1%
@@ -127,4 +127,4 @@ Active code time today      :                            5.1 hrs
                     other : ▮▮▮ (435 totaling 13.3%)
 ```
 
-> Powered by [CodeTime!](https://www.software.com/code-time)
+> Powered by [CodeTime](https://www.software.com/code-time)
