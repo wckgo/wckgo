@@ -7,28 +7,28 @@ Hi,I'm wckgo.A senior front-end development engineer from China.
 - 💬 Ask me about anything related to Javascript/visualization/Web 3D
 - 📫 How to reach me: [here!](https://wckgo.top/about)
 
-#### MY CODE TIME          (Last updated on Wed, Jul 22nd)
+#### MY CODE TIME          (Last updated on Wed, Jul 23rd)
 
-##### Today (Wed, Jul 22nd)
-
-```
-Code time today             :                            3.0 hrs
-Active code time today      :                            3.0 hrs
-90-day avg                  :                            3.5 hrs
-```
-
-##### Yesterday (Mon, Jul 20th)
+##### Today (Thu, Jul 23rd)
 
 ```
-         Active code time :                                 1.70
-      Lines of code added :                                  834
-    Lines of code deleted :                                   66
-         Characters added :                                1,826
-       Characters deleted :                                  310
-         Total keystrokes :                                2,291
-                      KPM :                                22.90
-      Hours coded at work :                                    1
- Hours coded outside work :                                 0.60
+Code time today             :                            2.7 hrs
+Active code time today      :                            2.7 hrs
+90-day avg                  :                            3.2 hrs
+```
+
+##### Yesterday (Wed, Jul 22nd)
+
+```
+         Active code time :                                    3
+      Lines of code added :                                  208
+    Lines of code deleted :                                1,948
+         Characters added :                                  973
+       Characters deleted :                                  222
+         Total keystrokes :                                1,334
+                      KPM :                                    7
+      Hours coded at work :                                    3
+ Hours coded outside work :                                    1
                Live share :                                0 min
              Top language :                           javascript
 ```
@@ -36,20 +36,20 @@ Active code time today      :                            3.0 hrs
 ##### Last week (Sun, Jul 12th - Sat, Jul 18th)
 
 ```
-         Active code time :                                21.50
+         Active code time :                                   22
       Lines of code added :                               10,659
     Lines of code deleted :                                2,234
          Characters added :                               14,944
        Characters deleted :                                3,081
          Total keystrokes :                               19,493
-                      KPM :                                15.10
-      Hours coded at work :                                10.20
- Hours coded outside work :                                11.30
+                      KPM :                                   15
+      Hours coded at work :                                   10
+ Hours coded outside work :                                   11
                Live share :                                0 min
              Top language :                           javascript
 ```
 
-#####   🔥 Weekly code time heatmap
+#####  🔥 Weekly code time heatmap
 
 ```
       12a 1a 2a 3a 4a 5a 6a 7a 8a 9a 10a 11a 12p 1p 2p 3p 4p 5p 6p 7p 8p 9p 10p 11p 
@@ -67,39 +67,39 @@ Active code time today      :                            3.0 hrs
 ```
                       sun : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 2.4 hrs
                       mon : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 2.6 hrs
-                      tue : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 2.9 hrs
+                      tue : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 3.1 hrs
                       wed : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 3.5 hrs
                       thu : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 3.2 hrs
                       fri : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 3.2 hrs
                       sat : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 3.2 hrs
 ```
 
-##### Last 90 days (Apr 27th, 2020 - Jul 20th, 2020)
+##### Last 90 days (Apr 27th, 2020 - Jul 22nd, 2020)
 
 ```
-         Active code time :                               209.10
-      Lines of code added :                               68,375
-    Lines of code deleted :                               15,339
-         Characters added :                              122,145
-       Characters deleted :                               30,121
-         Total keystrokes :                              176,458
-                      KPM :                                14.10
-      Hours coded at work :                               105.90
- Hours coded outside work :                               103.20
+         Active code time :                                  217
+      Lines of code added :                               92,047
+    Lines of code deleted :                               33,785
+         Characters added :                              126,172
+       Characters deleted :                               31,100
+         Total keystrokes :                              181,942
+                      KPM :                                   14
+      Hours coded at work :                                  113
+ Hours coded outside work :                                  105
                Live share :                                0 min
              Top language :                           javascript
 ```
 
-##### 🐲 Your weekly language rankings
+##### 🐲 My weekly language rankings
 
 ```
                javascript : ▮▮▮▮▮▮▮▮▮ 39.1%
                      scss : ▮▮▮▮▮ 21.7%
                       cpp : ▮▮▮ 13.0%
-          javascriptreact : ▮▮ 8.7%
                      html : ▮▮ 8.7%
-                      vue : ▮▮ 4.3%
+          javascriptreact : ▮▮ 8.7%
                      json : ▮▮ 4.3%
+                      vue : ▮▮ 4.3%
 ```
 
 ##### 🐲 Global weekly language rankings
@@ -113,7 +113,7 @@ Active code time today      :                            3.0 hrs
                    python : ▮▮ 6.2%
                       vue : ▮ 4.0%
                      json : ▮ 3.5%
-          typescriptreact : ▮ 3.5%
+          typescriptreact : ▮ 3.4%
                       css : ▮ 2.8%
                      dart : ▮ 2.7%
                      scss : ▮ 2.4%
